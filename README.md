@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sina-mzr
+- 👋 Hi, I’m Sina Mazarei
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on any machine learning project

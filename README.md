@@ -43,3 +43,70 @@ systems that can better understand and generate complex real-world data.
 ---
 
 ## Research Focus
+
+## Research Interests
+
+🧠 **Generative AI**
+- Diffusion Models
+- Variational Autoencoders
+- Controllable Generation
+- Representation Learning
+
+🌍 **3D Vision & Geometric AI**
+- Human Motion Modeling
+- 3D Reconstruction
+- Mesh and Shape Processing
+- Graph Neural Networks
+
+🔬 **Trustworthy & Cognitive AI**
+- Interpretability
+- Causal Representation Learning
+- Robust AI Systems
+- Neuro-inspired Learning
+
+
+---
+
+## Current Interests
+
+- Generative AI
+- Computer Vision
+- Human-centered AI
+- NeuroAI
+- Causal Learning
+- Representation Learning
+- AI Safety and Interpretability
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sina-mzr&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-mzr&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+## Contact
+
+🌐 Website  
+https://sina-mzr.github.io
+
+💼 LinkedIn  
+https://linkedin.com/in/sina-mazarei
+
+📧 Email  
+sina.mazarei@example.com
+
+
+---
+
+<div align="center">
+
+*"Building AI systems that can learn, reason, and understand complex worlds."*
+
+</div>

@@ -40,6 +40,7 @@ My current work explores the intersection of **machine learning,
 computer vision, and structured representations**, aiming to develop AI
 systems that can better understand and generate complex real-world data.
 
+<!---
 ---
 
 ## Research Focus
@@ -90,7 +91,7 @@ systems that can better understand and generate complex real-world data.
 </div>
 
 ---
-
+--->
 ## Contact
 
 🌐 Website  
@@ -100,7 +101,7 @@ https://sina-mzr.github.io
 https://linkedin.com/in/sina-mazarei
 
 📧 Email  
-sina.mazarei@example.com
+sina_mzr@outlook.com
 
 
 ---
